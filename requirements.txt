@@ -1,0 +1,7 @@
+streamlit
+pyttsx3
+speechrecognition
+pywhatkit
+twilio
+psutil
+opencv-python
